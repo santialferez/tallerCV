@@ -1,2 +1,4 @@
-# tallerCV
-Material para el taller de introducción a la visión por computador, impartido por Santiago Alférez
+# Taller de introducción a la visión por computador
+
+Este taller es impartido por Santiago Alférez, profesor de la carrera de Matemáticas Aplicadas y Ciencias de la Computación, de la Escuela de Ingeniería, Ciencia y Tecnología de la Universidad del Rosario (Bogotá, Colombia).
+
